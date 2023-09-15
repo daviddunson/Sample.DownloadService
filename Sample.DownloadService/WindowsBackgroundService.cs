@@ -1,9 +1,3 @@
-// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="WindowsBackgroundService.cs" company="United States Government">
-//   © 2022 United States Government, as represented by the Secretary of the Army.  All rights reserved.
-// </copyright>
-// --------------------------------------------------------------------------------------------------------------------
-
 namespace Sample.DownloadService;
 
 public sealed class WindowsBackgroundService : BackgroundService
